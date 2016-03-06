@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*  Copyright (C) 2013 OpenSilk Productions LLC
+*
+*  This file is part of Fuzzy Clock
+*
+*  Fuzzy Clock is free software: you can redistribute it and/or modify
+*  it under the terms of the GNU General Public License as published by
+*  the Free Software Foundation, either version 3 of the License, or
+*  (at your option) any later version.
+*  Fuzzy Clock is distributed in the hope that it will be useful,
+*  but WITHOUT ANY WARRANTY; without even the implied warranty of
+*  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+*  GNU General Public License for more details.
+*
+*  You should have received a copy of the GNU General Public License
+*  along with Fuzzy Clock.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources>
+
+    <string name="app_name" translatable="false">FuzzyClock</string>
+
+    <!-- Fuzzy Clock Resources -->
+    <string name="fuzzy_one">EINS</string>
+    <string name="fuzzy_two">ZWEI</string>
+    <string name="fuzzy_three">DREI</string>
+    <string name="fuzzy_four">VIER</string>
+    <string name="fuzzy_five">F&uuml;NF</string>
+    <string name="fuzzy_six">SECHS</string>
+    <string name="fuzzy_seven">SIEBEN</string>
+    <string name="fuzzy_eight">ACHT</string>
+    <string name="fuzzy_nine">NEUN</string>
+    <string name="fuzzy_ten">ZEHN</string>
+    <string name="fuzzy_eleven">ELF</string>
+    <string name="fuzzy_twelve">ZW&ouml;LF</string>
+    <string name="fuzzy_thirteen">DREIZEHN</string>
+    <string name="fuzzy_fourteen">VIERZEHN</string>
+    <string name="fuzzy_fifteen">F&uuml;NFZEHN</string>
+    <string name="fuzzy_sixteen">SECHZEHN</string>
+    <string name="fuzzy_seventeen">SIEBZEHN</string>
+    <string name="fuzzy_eighteen">ACHTZEHN</string>
+    <string name="fuzzy_nineteen">NEUNZEHN</string>
+    <string name="fuzzy_twenty">ZWANZIG</string>
+    <string name="fuzzy_twenty_one">EINUNDZWANZIG</string>
+    <string name="fuzzy_twenty_two">ZWEIUNDZWANZIG</string>
+    <string name="fuzzy_twenty_three">DREIUNDZWANZIG</string>
+    <string name="fuzzy_twenty_four">VIERUNDZWANZIG</string>
+    <string name="fuzzy_twenty_five">F&uuml;NFUNDZWANZIG</string>
+    <string name="fuzzy_twenty_six">SECHSUNDZWANZIG</string>
+    <string name="fuzzy_twenty_seven">SIEBENUNDZWANZIG</string>
+    <string name="fuzzy_twenty_eight">ACHTUNDZWANZIG</string>
+    <string name="fuzzy_twenty_nine">NEUNUNDZWANZIG</string>
+
+    <string name="fuzzy_half">HALB</string>
+    <string name="fuzzy_hours">STUNDEN</string>
+    <string name="fuzzy_midnight">MITTERNACHT</string>
+    <string name="fuzzy_noon">MITTAG</string>
+    <string name="fuzzy_oclock">UHR</string>
+    <string name="fuzzy_past">NACH</string>
+    <string name="fuzzy_quarter">HALB</string>
+    <string name="fuzzy_to">VOR</string>
+
+    <!-- Settings titles -->
+    <string name="settings_title">Fuzzy dream Einstellungen</string>
+    <string name="settings_title_widget">Fuzzy widget Einstellungen</string>
+
+    <!-- Colors -->
+    <string name="white">Wei&szlig;</string>
+    <string name="custom">Benutzerdefiniert</string>
+    <!-- Material Colors -->
+    <string name="mtrl_red">Rot</string>
+    <string name="mtrl_pink">Pink</string>
+    <string name="mtrl_purple">Lila</string>
+    <string name="mtrl_dark_purple">Dark Purple</string>
+    <string name="mtrl_indigo">Indigo</string>
+    <string name="mtrl_blue">Blau</string>
+    <string name="mtrl_light_blue">Hellblau</string>
+    <string name="mtrl_cyan">Cyan</string>
+    <string name="mtrl_teal">Teal</string>
+    <string name="mtrl_green">Gr&uuml;n</string>
+    <string name="mtrl_light_green">Hellgr&uuml;n</string>
+    <string name="mtrl_lime">Lime</string>
+    <string name="mtrl_yellow">Gelb</string>
+    <string name="mtrl_amber">Amber</string>
+    <string name="mtrl_orange">Orange</string>
+    <string name="mtrl_deep_orange">Dunkles Orange</string>
+    <string name="mtrl_brown">Braun</string>
+    <string name="mtrl_grey">Grau</string>
+    <string name="mtrl_blue_grey">Blau-grau</string>
+
+    <!-- Typefaces -->
+    <string name="regular">Regular</string>
+    <string name="regular_bold">Regular bold</string>
+    <string name="condensed">Condensed</string>
+    <string name="condensed_bold">Condensed bold</string>
+    <string name="thin">Thin</string>
+    <string name="thin_bold">Thin bold</string>
+
+    <!-- Layout styles -->
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertikal</string>
+    <string name="staggered">Gestuft</string>
+
+    <!-- Logic styles -->
+    <string name="fast">Schnell</string>
+    <string name="precise">Exakt</string>
+    <string name="slow">Langsam</string>
+    <string name="warped">Warped</string>
+
+    <!-- Buttons -->
+    <string name="preview">Vorschau</string>
+    <string name="fuzziness">Fuzziness</string>
+    <string name="typeface">Schriftart</string>
+    <string name="color">Farbe</string>
+
+    <!-- Pref Titles -->
+    <string name="common">Allgemein</string>
+    <string name="minutes">Minuten</string>
+    <string name="separator">Trenner</string>
+    <string name="hours">Stunden</string>
+
+    <!--Color picker-->
+    <string name="opacity">Opacity</string>
+    <string name="saturation_value">S&auml;ttigungswert</string>
+    <string name="value">Wert</string>
+    <string name="saturation">S&auml;ttigung</string>
+
+    <!-- misc -->
+    <string name="first_run">This dream has separate preferences for portrait and landscape. Be sure to rotate your device to setup both.</string>
+</resources>
